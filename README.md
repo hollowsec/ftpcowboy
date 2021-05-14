@@ -18,7 +18,7 @@
 
  
 
-   <img alt="License" src="https://img.shields.io/github/license/lildix/FTPCowboy">
+   <img alt="License" src="https://img.shields.io/github/license/lildix/ftpcowboy">
 
 
 
@@ -40,13 +40,13 @@
 
 # Clone this repository
 
-$ git clone git@github.com:lildix/FTPCowboy.git
+$ git clone git@github.com:lildix/ftpcowboy.git
 
 
 
 # Access the script folder in your terminal
 
-$ cd FTPCowboy
+$ cd ftpcowboy
 
 
 
