@@ -2,7 +2,7 @@
 import socket,sys,re
 
 if len(sys.argv) != 4:
-  print "########### LIL DIX - FTPCOWBOY ###########"
+  print "########### FTPCOWBOY ###########"
   print "- - - - - -  - - -  - - - - - - - - - - - - -"
   print "Example: python ftpcowboy.py target user wordlist.txt"
   sys.exit()
